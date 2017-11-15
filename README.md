@@ -1,2 +1,3 @@
-# GitTest2
+﻿＃　GitTest2
 Gitのテストリポジトリ
+hogehoge
